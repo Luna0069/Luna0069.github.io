@@ -201,6 +201,7 @@ body {
 
 /* Platform-specific icon colors */
 [data-platform="discord"] i { color: #5865F2; }
+[data-platform="discord-server"] i { color: #5865F2; }
 [data-platform="tiktok"] i { color: #ff0050; }
 [data-platform="roblox"] i { color: #00b06f; }
 
